@@ -1,6 +1,14 @@
-## Module03 JavaScript Challenge: Password Generator
+# Password Generator
 
-This challenge requires me to create an application that a user can use to generate a random password based on parameters they have selected. It runs in the browser and is "powered" by JavaScript!
+## Description
+
+This application allows a user to generate a random password based on parameters they have selected. It runs in the browser and is "powered" by JavaScript!
+
+Below is a screenshot of the website and the link to it.
+
+[Password Generator Website Link](https://purplepeopleeated.github.io/password-generator/)
+
+![screenshot of a generated password](assets/images/password-generator.png)
 
 ## Usage
 
