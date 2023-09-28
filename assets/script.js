@@ -20,7 +20,7 @@ function generatePassword() {
   // Prompt the user to answer
   var lengthPass = prompt("Desired password length?", "Pick a number from 8-128");
   // Keep prompting user to answer until input is a number between 8 and 128 (incl. 8 and 128)
-  while (lengthPass >=! 8 && lengthPass <=! 128) { 
+  while (lengthPass < 8 || lengthPass > 128) { 
     lengthPass = prompt("Desired password length?", "Pick a number from 8-128");
   }
 
